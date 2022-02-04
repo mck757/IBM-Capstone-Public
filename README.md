@@ -1,1 +1,1 @@
-# IBM-Capstone-Public
+# IBM Data Science Professional Certificate Notebooks
